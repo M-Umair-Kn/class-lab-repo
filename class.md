@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: M. Umair  
+- Certification: Meta Back-End, Meta Front-End, Meta Database Engineer 
 
 ## Instructions
 Please replace the placeholders with your details:
